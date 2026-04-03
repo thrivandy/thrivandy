@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 Tech Stack
-- Languages: Python / JavaScrpit / Java / CSS3 / HTML5 / C
+- Languages: Python
 - Tools: Git / VS Code / GitHub
 
 ### 📫 How to reach me
